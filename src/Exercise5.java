@@ -12,7 +12,7 @@ import javax.jms.TextMessage;
 
 import org.apache.activemq.ActiveMQConnectionFactory;
 
-public class Exercise2 {
+public class Exercise5 {
 	public static void main(String[] args) throws Exception {
     	ActiveMQConnectionFactory connectionFactory = new ActiveMQConnectionFactory("vm://localhost");
     	

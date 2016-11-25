@@ -12,7 +12,7 @@ import javax.jms.Session;
 import javax.jms.TextMessage;
  
 
-public class Exercise1 {
+public class Exercise4 {
 	
 	public static final String TEXT = "";
  
